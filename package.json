@@ -1,0 +1,12 @@
+{
+  "name": "45assignments",
+  "version": "1.0.0",
+  "main": "q19.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
